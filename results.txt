@@ -1,0 +1,14 @@
+
+=========================
+Scan Time: 2026-03-08 22:51:10
+Target: scanme.nmap.org
+Ports: 21 - 28
+=========================
+Port 22 is OPEN
+Port 27 is CLOSED
+Port 25 is CLOSED
+Port 24 is CLOSED
+Port 28 is CLOSED
+Port 21 is CLOSED
+Port 26 is CLOSED
+Scan Duration: 1.07 seconds
