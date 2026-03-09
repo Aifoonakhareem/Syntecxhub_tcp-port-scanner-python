@@ -107,7 +107,7 @@ Enter ending port: 100
 
 ## Example Output
 
-![Port Scanner Output](scanner_output.png)
+![Port Scanner Output](scanned_output.png)
 ```
 Scanning target: scanme.nmap.org
 Scanning ports 20 to 100
